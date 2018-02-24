@@ -2,7 +2,7 @@ Package: redrake
 Title: Simple Reproducible Workflows
 Version: 0.0-0
 Authors@R: person("Kirill", "Müller", role = c("aut", "cre"), email = "krlmlr+r@mailbox.org")
-Description: A simpler interface to drake. Includes a converter from remake.
+Description: A simpler interface to drake for R. Includes a converter for remake projects.
 Depends: R (>= 3.4.3)
 License: MIT
 Encoding: UTF-8

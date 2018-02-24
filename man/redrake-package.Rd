@@ -6,7 +6,7 @@
 \alias{redrake-package}
 \title{redrake: Simple Reproducible Workflows}
 \description{
-A simpler interface to drake. Includes a converter from remake.
+A simpler interface to drake for R. Includes a converter for remake projects.
 }
 \details{
 Work in progress.
